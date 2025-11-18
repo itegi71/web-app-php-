@@ -53,14 +53,6 @@ Real-time blood stock updates
 
 Donation eligibility checks
 
-📊 Analytics & Reporting
-Blood stock analytics
-
-Donation statistics
-
-Demand forecasting
-
-Emergency alert system
 
 🛠 Technology Stack
 Backend: PHP 8.0+
@@ -68,6 +60,7 @@ Backend: PHP 8.0+
 Framework: Custom MVC Architecture
 
 Database: MySQL 8.0+
+javascript for event handling  and error management 
 
 Authentication: JWT Tokens
 
