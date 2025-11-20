@@ -1,4 +1,4 @@
-🩸 Blood Donation Management System - Backend
+ Blood Donation Management System - Backend
 A robust PHP backend system for managing blood donation operations, donor registrations, and blood inventory tracking.
 
 📋 Table of Contents
@@ -16,7 +16,7 @@ Database Schema
 
 Development
 
-✨ Features
+ Features
 🔐 Authentication & Authorization
 JWT-based authentication system
 
@@ -83,10 +83,6 @@ Composer (for dependencies)
 Step-by-Step Setup
 Clone the repository
 
-bash
-git clone https://github.com/your-org/blood-donation-backend.git
-cd blood-donation-backend
-Install dependencies
 
 bash
 composer install
