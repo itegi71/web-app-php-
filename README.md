@@ -62,7 +62,7 @@ Framework: Custom MVC Architecture
 Database: MySQL 8.0+
 javascript for event handling  and error management 
 
-Authentication: JWT Tokens
+
 
 API: RESTful APIs
 
@@ -78,7 +78,7 @@ MySQL 8.0 or higher
 
 Apache/Nginx web server
 
-Composer (for dependencies)
+
 
 Step-by-Step Setup
 Clone the repository
@@ -103,7 +103,6 @@ php migrate.php
 Seed initial data (optional)
 
 bash
-php seed.php
 Configure web server
 
 Set document root to /public
